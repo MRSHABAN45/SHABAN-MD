@@ -45,7 +45,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },   
    
     "AUTO_STATUS_SEEN": {
@@ -63,13 +63,13 @@
     "AUTO_STATUS_REPLY": {
       "description": "Make it true for auto reply msg on status seen.",
       "required": true,
-      "value": "false"
+      "value": "true"
     }, 
 
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW ʙʟᴀᴄᴋ-ᴋɪɴɢ 𓅓*"
     }, 
 
     "BOT_NAME": {
@@ -129,7 +129,7 @@
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
       "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍,🦎,🐉,🦕,🦖,🐍,🙏,💯,👺,🐲,🐴,👌,🤏,😅,🙌,👑,🎂,🎈,👹,💀,☠️,👻,😈,🥱,🖕,🙄,🥺,"
     }, 
     
     "ANTI_DEL_PATH": {
