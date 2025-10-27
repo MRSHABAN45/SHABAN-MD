@@ -1,27 +1,27 @@
 {
-  "name": "SHABAN-MD",
+  "name": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_",
   "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
   "logo": "https://ik.imagekit.io/mrshaban/Picsart_25-02-01_22-47-44-239.jpg",
-  "keywords": ["SHABAN-MD"],
+  "keywords": ["_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"],
   "success_url": "/",
   "stack": "container",
   "env": {
     "SESSION_ID": {
       "description": "Put The Session-ID Here",
       "required": true,
-      "value": ""
+      "value": "SMD~eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTUkzYkZzZGRNMW1tM1NZVllkc1JoeUNEVzdsNGI3WFVYeFl4YzM5SzlsMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiZ29Tdm90ZTBTaytYVm5oc0I1eUZBZjVqZ05kdzlTZ2IrbFJNYXZBbzVHMD0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIyQmxrQ1BSai9lNXE2RDFtWmFILy9JWG81d0MyOXJlellXYi9hN05LUEVRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJrYXJJM243RVR2N2RYWEpaTXZuTkhGZWZhTzN6NlNTSFp5Und4ZGhhYjBJPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitKcHlTWlZQRUdqQkVJQVV4WGl3alBva1B4OFZFTFZpUDJYN2FIcUZRRkE9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImRiZmFrM0dicGRzQk1Oa2pkV3c4SDZnZkNRTTFqNUhiM2YvWEp5WFBjMEE9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic01ScjE3a2tnOEVuOFZsUXoyU2NGYVJGN25idG5YWk41ZFQ3TFBLb1RFND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoic1JIU1R3VWZLU2tGYmgrVGZoYWUwWStMRUF2V0ZweENqWXRjQ016VlJ5VT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ikg2bitVRUNHOU9nVG85bm5BSjRhcGpWbTNHeFlReGY4U25FaDMvQzlhU0NHaXdnRjdUL29UQzkyZG1yWXhlN1lUNExiZkpaM3MrbWQ2UW02eTcwZWpnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NDQsImFkdlNlY3JldEtleSI6IjNkbWZvcHRLMWlrOENLQ0piMmZnbFNJWCtNU0dNMWZ4V1JXamVmb2k3dlk9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiOTE4OTcyNDI4NjM4QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6IkFDODFEMTZCQkREMTA4MkEwRjdBMjdEODM3QTJGRTIyIn0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NjE1NTM4Nzl9XSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IlpRU0VNQkIzIiwibWUiOnsiaWQiOiI5MTg5NzI0Mjg2Mzg6MjNAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiI5NzcxNTQ3MjA3Njg2MToyM0BsaWQifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0p5Sm5QOERFTkxiL01jR0dBSWdBQ2dBIiwiYWNjb3VudFNpZ25hdHVyZUtleSI6ImtnNlh5bDV5Ymx3cHVqMVJIZlE4V0RwSFZqd1hSMEt0d1VwZFR3ekhNUzg9IiwiYWNjb3VudFNpZ25hdHVyZSI6IlgreHZpaFpBZGJlMlZpNUVyVlNEQlRsTjhaTXVBSGNtUzNhdTN4UDZKdjJUUFJzRk9ESm1jNG5Vc05mY241SHJVRmRvU3RMRWh5d21JOVAyRHZhNENnPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJYaUZ0Zk5wYnFiQlZHZm1mekRmckE3RUl2b0s4dDBCeFRRaHFZVWFXTVNNUFlGOFRiRVJ1QWNCVnZ5UDdPYWVzaEkvMzlhSDNkUExQRlpzMDJWSUlndz09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjkxODk3MjQyODYzODoyM0BzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJaSU9sOHBlY201Y0tibzlVUjMwUEZnNlIxWThGMGRDcmNGS1hVOE14ekV2In19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQVVJQ0E9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NjE1NTM4NzcsImxhc3RQcm9wSGFzaCI6IjJNRktQUSIsIm15QXBwU3RhdGVLZXlJZCI6IkFBQUFBTEJQIn0="
     },  
  
     "OWNER_NAME": {
       "description": "Type Bot Owner Name",
       "required": false,
-      "value": "𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍"
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
     }, 
 
     "OWNER_NUMBER": {
       "description": "Put Your WhatsApp Number Link Device",
       "required": false,
-      "value": "923303788282"
+      "value": "918972428638"
     }, 
     
     "MENU_IMAGE_URL": {
@@ -39,7 +39,7 @@
     "MODE": {
       "description": "Select Your Bot Work Type Public-Private-Inbox-Group",
       "required": false,
-      "value": "public"
+      "value": "private"
     },
     
     "ALWAYS_ONLINE": {
@@ -75,13 +75,13 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW Sʜᴀʙᴀɴ-Mᴅ 𓅓*"
+      "value": "*SᴇᴇN YᴏᴜʀE SᴛᴀᴛᴜS JᴜsT NᴏW _❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_ 𓅓*"
     }, 
 
     "BOT_NAME": {
       "description": "Type Here The Bot Name",
       "required": false,
-      "value": "SHABAN-MD"
+      "value": "_❥⋆⃝🇪𝐃𝐈𝐓 🇧𝐎𝐘 ❥_"
     },
     
     "ANTI_LINK": {
@@ -141,7 +141,7 @@
     "ANTI_DEL_PATH": {
       "description": "Change It To -same- If You Want To Resend Deleted Message In Same Chat Othwise -inbox-",
       "required": true,
-      "value": "inbox"
+      "value": "all"
     },
 
     "ANTI_DELETE": {
