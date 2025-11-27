@@ -1,7 +1,7 @@
 {
-  "name": "SHABAN-MD",
-  "description": "Javascript WhatsApp bot made by 𝐌𝐑 𝐒𝐇𝐀𝐁𝐀𝐍",
-  "keywords": ["SHABAN-MD"],
+  "name": "BIHAR_KE_BAHUBALI",
+  "description": "Javascript WhatsApp bot made by BIHAR_KE_BAHUBALI",
+  "keywords": ["BIHAR_KE_BAHUBALI"],
   "success_url": "/",
   "stack": "container",
   "env": {
