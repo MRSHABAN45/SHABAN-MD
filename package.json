@@ -3,11 +3,11 @@
   "version": "6.0.0",
   "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
   "main": "index.js",
+
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name SHABAN-MD",
-    "stop": "pm2 stop SHABAN-MD",
-    "restart": "pm2 restart SHABAN-MD"
+    "start": "node index.js"
   },
+
   "keywords": [
     "shaban-md",
     "whatsapp-bot",
@@ -22,6 +22,7 @@
     "shaban-md-whatsapp-bot",
     "chatbot"
   ],
+
   "dependencies": {
     "@whiskeysockets/baileys": "7.0.0-rc.6",
     "axios": "^1.7.9",
