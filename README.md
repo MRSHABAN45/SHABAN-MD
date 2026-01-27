@@ -13,7 +13,7 @@ ___
 
   
 <p align="center">
-  <a href="https://whatsapp.com/channel/0029Vb6aq4cCHDygiEqJZl0S" target="_blank">
+  <a href="https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s" target="_blank">
     <img src="./Shaban/channel-update.svg" width="350" alt="Bot Updating — WhatsApp Channel | Join Fast">
   </a>
 </p>
