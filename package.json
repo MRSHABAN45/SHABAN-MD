@@ -29,7 +29,7 @@
     "@supabase/supabase-js": "^2.43.4",
     "cheerio": "^1.0.0-rc.12",
     "crypto-js": "latest",
-    "sharp": "^0.32.6",
+    "sharp": "^0.34.3",
     "express": "latest",
     "file-type": "^16.5.3",
     "fluent-ffmpeg": "^2.1.2",
