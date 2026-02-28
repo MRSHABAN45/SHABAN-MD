@@ -86,6 +86,16 @@ ___
   </tr>
 </table>  
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://mini.bandaheali.site" target="_blank">
+        <img alt="BANDAHEALI-MINI" src="https://img.shields.io/badge/BANDAHEALI-MINI%20BOT%20LINK-008080?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
 -------------
 
 **_✠ FREE DEPLOYMENT OF SHABAN MD GITHUB WORKFLOW CODE NEW ADD ERROR FIXED ✠_**
