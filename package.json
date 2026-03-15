@@ -1,6 +1,6 @@
 {
   "name": "SHABAN-MD",
-  "version": "6.0.0",
+  "version": "7.0.0",
   "description": "WHATSAPP BOT CREATED BY MR SHABAN⁴⁵",
   "main": "index.js",
   "scripts": {
@@ -27,6 +27,7 @@
     "axios": "^1.7.9",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@supabase/supabase-js": "^2.43.4",
+    "mongoose": "^8.19.1",
     "cheerio": "^1.0.0-rc.12",
     "crypto-js": "latest",
     "express": "latest",
@@ -49,6 +50,7 @@
     "yt-search": "2.11.1",
     "moment-timezone": "^0.6.0",
     "google-tts-api": "^2.0.2",
+    "megajs": "^1.1.0",
     "adm-zip": "^0.5.16",
     "awesome-phonenumber": "^6.4.0",
     "imagekit": "^5.1.0"
