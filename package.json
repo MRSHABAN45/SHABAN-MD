@@ -27,7 +27,6 @@
     "axios": "^1.7.9",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@supabase/supabase-js": "^2.43.4",
-    "mongoose": "^8.19.1",
     "cheerio": "^1.0.0-rc.12",
     "crypto-js": "latest",
     "express": "latest",
